@@ -22,8 +22,8 @@
         
         <muleAppPluginsMavenPluginVersion>1.0.0-greenarrow</muleAppPluginsMavenPluginVersion>
 
-        <muleHttpConnectorVersion>2.0.0-greenarrow</muleHttpConnectorVersion>
-        <muleSocketsConnectorVersion>2.0.0-greenarrow</muleSocketsConnectorVersion>
+        <muleHttpConnectorVersion>1.0.0-greenarrow</muleHttpConnectorVersion>
+        <muleSocketsConnectorVersion>1.0.0-greenarrow</muleSocketsConnectorVersion>
         <weaveVersion>2.0.0-SNAPSHOT</weaveVersion>
     </properties>
 
