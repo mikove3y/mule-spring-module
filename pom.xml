@@ -23,7 +23,7 @@
         <muleAppPluginsMavenPluginVersion>1.1.0-DRY-RUN</muleAppPluginsMavenPluginVersion>
 
         <muleHttpConnectorVersion>1.1.0-DRY-RUN</muleHttpConnectorVersion>
-        <muleSocketsConnectorVersion>1.1.0-SNAPSHOT</muleSocketsConnectorVersion>
+        <muleSocketsConnectorVersion>1.1.0-DRY-RUN</muleSocketsConnectorVersion>
         <weaveVersion>2.0.0-SNAPSHOT</weaveVersion>
     </properties>
 
